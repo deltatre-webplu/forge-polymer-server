@@ -22,7 +22,13 @@
     "google-web-components": "1.1.1",
     "molecules": "1.0.0",
     "polymerfire": "0.10.3",
-	
-	"paper-link-button": "1.0.0"
+
+    "paper-link-button": "https://github.com/deltatre-webplu/paper-link-button.git#1.0.1",
+    "forge-array-input": "https://github.com/deltatre-webplu/forge-array-input.git#1.0.0"
+  },
+  "resolutions": {
+    "polymerfire": "0.10.3",
+    "app-localize-behavior": "0.10.0",
+    "firebase": "3.6.0"
   }
 }
